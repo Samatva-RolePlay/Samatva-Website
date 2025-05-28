@@ -20,7 +20,6 @@
         "id": "tier3",
         "name": "Tier 3 Collection",
         "description": "Rare and exotic supercars",
-        // "priceRange": "$1,500,000+",
         "color": "#B8860B",
         "icon": "diamond"
       },
@@ -28,7 +27,6 @@
         "id": "tier4",
         "name": "Tier 4 Collection",
         "description": "Rare and exotic supercars",
-        // "priceRange": "$1,500,000+",
         "color": "#B8860B",
         "icon": "crown"
       }
