@@ -6,7 +6,7 @@
         "description": "High-end vehicles for the discerning driver",
         "priceRange": "$150,000 - $500,000",
         "color": "#FFD700",
-        "icon": "crown"
+        "icon": "shield"
       },
       {
         "id": "tier2",
@@ -14,7 +14,7 @@
         "description": "Ultra-premium vehicles for the elite",
         "priceRange": "$500,000 - $1,500,000",
         "color": "#C0C0C0",
-        "icon": "diamond"
+        "icon": "swords"
       },
       {
         "id": "tier3",
@@ -22,7 +22,7 @@
         "description": "Rare and exotic supercars",
         "priceRange": "$1,500,000+",
         "color": "#B8860B",
-        "icon": "star"
+        "icon": "diamond"
       },
       {
         "id": "tier4",
@@ -30,7 +30,7 @@
         "description": "Rare and exotic supercars",
         "priceRange": "$1,500,000+",
         "color": "#B8860B",
-        "icon": "star"
+        "icon": "crown"
       }
     ],
     "vehicles": [
