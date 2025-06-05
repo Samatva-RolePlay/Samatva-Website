@@ -3,30 +3,36 @@
       {
         "id": "tier1",
         "name": "Tier 1 Collection",
-        "description": "High-end vehicles for the discerning driver",
-        "priceRange": "$150,000 - $500,000",
+        // "description": "High-end vehicles for the discerning driver",
+        // "priceRange": "$150,000 - $500,000",
         "color": "#10B5F7",
         "icon": "shield"
       },
       {
         "id": "tier2",
         "name": "Tier 2 Collection",
-        "description": "Ultra-premium vehicles for the elite",
-        "priceRange": "$500,000 - $1,500,000",
+        // "description": "Ultra-premium vehicles for the elite",
         "color": "#C0C0C0",
         "icon": "swords"
       },
       {
         "id": "tier3",
         "name": "Tier 3 Collection",
-        "description": "Rare and exotic supercars",
+        // "description": "Rare and exotic supercars",
         "color": "#0AF95A",
         "icon": "diamond"
       },
       {
         "id": "tier4",
         "name": "Tier 4 Collection",
-        "description": "Rare and exotic supercars",
+        // "description": "Rare and exotic supercars",
+        "color": "#B8860B",
+        "icon": "crown"
+      },
+      {
+        "id": "tier5",
+        "name": "Tier 5 Collection",
+        // "description": "Rare and exotic supercars",
         "color": "#B8860B",
         "icon": "crown"
       }
