@@ -17,14 +17,12 @@
       {
         "id": "tier3",
         "name": "Tier 3 Collection",
-        "description": "Rare and exotic supercars",
         "color": "#0AF95A",
         "icon": "diamond"
       },
       {
         "id": "tier4",
         "name": "Tier 4 Collection",
-        "description": "Rare and exotic supercars",
         "color": "#B8860B",
         "icon": "crown"
       },
