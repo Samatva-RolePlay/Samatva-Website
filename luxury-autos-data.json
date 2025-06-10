@@ -34,17 +34,10 @@
         "name": "Tier 5 Collection",
         "description": "Rare and exotic supercars",
         "color": "#B8860B",
-        "icon": "crown"
+        "icon": "swords"
       }
     ],
     "vehicles": [
-      {
-        "name": "Tahoma GT",
-        "tier": "tier1",
-        "description": "2 seater ♦ Muscle",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Tahoma%20GT.png",
-        "price": 325000
-      },
       {
         "name": "Argento 7F",
         "tier": "tier2",
@@ -166,7 +159,7 @@
       },
       {
         "name": "Solace Vitsse",
-        "tier": "tier4",
+        "tier": "tier1",
         "description": "2 seater ♦ Super",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Dewbauchee%20Solace.png",
         "price": 15000000
