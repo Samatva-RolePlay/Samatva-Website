@@ -4,7 +4,6 @@
         "id": "tier1",
         "name": "Tier 1 Collection",
         "description": "High-end vehicles for the discerning driver",
-        "priceRange": "$150,000 - $500,000",
         "color": "#10B5F7",
         "icon": "shield"
       },
@@ -60,7 +59,7 @@
         "price": 450000
       },
       {
-        "name": "Obey 10F",
+        "name": "Obey 10R",
         "tier": "tier2",
         "description": "2 seater ♦ Sports",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Obey%2010f.png",
@@ -100,13 +99,6 @@
         "description": "4 seater ♦ SUVs",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Vulcar%20Starlight.png",
         "price": 1750000
-      },
-      {
-        "name": "Dewbauchee Solace",
-        "tier": "tier3",
-        "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Dewbauchee%20Solace.png",
-        "price": 2500000
       },
       {
         "name": "Pegassi Prospero",
