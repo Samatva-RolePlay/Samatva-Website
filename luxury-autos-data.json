@@ -3,14 +3,12 @@
       {
         "id": "tier1",
         "name": "Tier 1 Collection",
-        "description": "High-end vehicles for the discerning driver",
         "color": "#10B5F7",
         "icon": "shield"
       },
       {
         "id": "tier2",
         "name": "Tier 2 Collection",
-        "description": "Ultra-premium vehicles for the elite",
         "color": "#C0C0C0",
         "icon": "swords"
       },
@@ -29,7 +27,6 @@
       {
         "id": "tier5",
         "name": "Tier 5 Collection",
-        "description": "Rare and exotic supercars",
         "color": "#B8860B",
         "icon": "swords"
       }
