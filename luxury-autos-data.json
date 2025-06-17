@@ -36,151 +36,176 @@
         "name": "Argento 7F",
         "tier": "tier2",
         "description": "4 seater ♦ Sedans",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Obey%20Argento%207f.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Obey%20Argento%207f.png",
+        "price": 350000
       },
       {
         "name": "Sultan RSX",
         "tier": "tier1",
         "description": "4 Seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Sultan%20RSX.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Sultan%20RSX.png",
+        "price": 400000
       },
       {
         "name": "Schlagen ST",
         "tier": "tier1",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Benefactor%20Schalgen%20ST.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Benefactor%20Schalgen%20ST.png",
+        "price": 400000
       },
       {
         "name": "Obey 10R",
         "tier": "tier2",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Obey%2010f.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Obey%2010f.png",
+        "price": 350000
       },
       {
         "name": "Dominator GSX",
         "tier": "tier4",
         "description": "2 seater ♦ Muscle",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Dominator%20GSX.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Dominator%20GSX.png",
+        "price": 250000
       },
       {
         "name": "Coil EON",
         "tier": "tier5",
         "description": "4 seater ♦ Sedans",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Coil%20EON.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Coil%20EON.png",
+        "price": 200000
       },
       {
         "name": "Sentinel GTS",
         "tier": "tier2",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Ubermatch%20Sentinel%20GTS.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Ubermatch%20Sentinel%20GTS.png",
+        "price": 350000
       },
       {
         "name": "Schwartzer S",
         "tier": "tier1",
         "description": "2 Seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Schafter%20GTS.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Schafter%20GTS.png",
+        "price": 400000
       },
       {
         "name": "Vulcan Staright",
         "tier": "tier2",
         "description": "4 seater ♦ SUVs",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Vulcar%20Starlight.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Vulcar%20Starlight.png",
+        "price": 350000
       },
       {
         "name": "Pegassi Prospero",
         "tier": "tier5",
         "description": "2 seater ♦ Super",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Prospero.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Prospero.png",
+        "price": 200000
       },
       {
         "name": "Neon Cross Turismo",
         "tier": "tier1",
         "description": "4 Seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Neon%20Cross%20Turismo.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Neon%20Cross%20Turismo.png",
+        "price": 400000
       },
       {
         "name": "Banshee VR",
         "tier": "tier3",
         "description": "2 seater ♦ Super",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Banshee%20S.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Banshee%20S.png",
+        "price": 300000
       },
       {
         "name": "Schlagen Roadster",
         "tier": "tier2",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Benefactor%20Schalgen%20Roadster.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Benefactor%20Schalgen%20Roadster.png",
+        "price": 350000
       },
       {
         "name": "Comet S2R",
         "tier": "tier5",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Comet%20S2R%20Custom.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Comet%20S2R%20Custom.png",
+        "price": 200000
       },
       {
         "name": "Progen TR3-S",
         "tier": "tier4",
         "description": "2 seater ♦ Super",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Progen%20Tr3s.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Progen%20Tr3s.png",
+        "price": 250000
       },
       {
         "name": "Raiden Z2",
         "tier": "tier3",
         "description": "2 seater ♦ Super",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Coil%20LOD%204.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Coil%20LOD%204.png",
+        "price": 300000
       },
       {
         "name": "Solace Vitsse",
         "tier": "tier1",
         "description": "2 seater ♦ Super",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Dewbauchee%20Solace.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Dewbauchee%20Solace.png",
+        "price": 400000
       },
       {
         "name": "Lynx GPR",
         "tier": "tier3",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/lynxrr.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/lynxrr.png",
+        "price": 300000
       },
       {
         "name": "Crowd Runner",
         "tier": "tier3",
         "description": "2 seater ♦ Muscle",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/crowdrunner.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/crowdrunner.png",
+        "price": 300000
       },
       {
         "name": "Sultan RS V8",
         "tier": "tier3",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/sultanrsv8.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/sultanrsv8.png",
+        "price": 300000
       },
       {
         "name": "Elegy RH8-X",
         "tier": "tier4",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/elegyx.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/elegyx.png",
+        "price": 250000
       },
       {
         "name": "Drafter GPR",
         "tier": "tier4",
         "description": "2 seater ♦ Sedans",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/draftgpr.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/draftgpr.png",
+        "price": 250000
       },
       {
         "name": "Couquette GTS",
         "tier": "tier4",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/coquette4c.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/coquette4c.png",
+        "price": 250000
       },
       {
         "name": "Pentro GPR",
         "tier": "tier5",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/pentrogpr2.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/pentrogpr2.png",
+        "price": 200000
       },
       {
         "name": "Torero WB",
         "tier": "tier5",
         "description": "2 seater ♦ Sports",
-        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/torerod.png"
+        "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/torerod.png",
+        "price": 200000
       }
     ]
   }
