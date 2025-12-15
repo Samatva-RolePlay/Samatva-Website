@@ -23,12 +23,6 @@
         "name": "Tier 4 Collection",
         "color": "#B8860B",
         "icon": "crown"
-      },
-      {
-        "id": "tier5",
-        "name": "Tier 5 Collection",
-        "color": "#B8860B",
-        "icon": "swords"
       }
     ],
     "vehicles": [
@@ -69,7 +63,7 @@
       },
       {
         "name": "Coil EON",
-        "tier": "tier5",
+        "tier": "tier1",
         "description": "4 seater ♦ Sedans",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Coil%20EON.png",
         "price": 200000
@@ -97,7 +91,7 @@
       },
       {
         "name": "Pegassi Prospero",
-        "tier": "tier5",
+        "tier": "tier4",
         "description": "2 seater ♦ Super",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Prospero.png",
         "price": 200000
@@ -125,7 +119,7 @@
       },
       {
         "name": "Comet S2R",
-        "tier": "tier5",
+        "tier": "tier4",
         "description": "2 seater ♦ Sports",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/Comet%20S2R%20Custom.png",
         "price": 200000
@@ -195,14 +189,14 @@
       },
       {
         "name": "Pentro GPR",
-        "tier": "tier5",
+        "tier": "tier2",
         "description": "2 seater ♦ Sports",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/pentrogpr2.png",
         "price": 200000
       },
       {
         "name": "Torero WB",
-        "tier": "tier5",
+        "tier": "tier3",
         "description": "2 seater ♦ Sports",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/torerod.png",
         "price": 200000
