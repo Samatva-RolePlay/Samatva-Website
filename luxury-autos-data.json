@@ -200,6 +200,104 @@
         "description": "2 seater ♦ Sports",
         "image": "https://raw.githubusercontent.com/Samatva-RolePlay/Samatva-Website/refs/heads/main/imgs/torerod.png",
         "price": 200000
+      },
+      {
+        "name": "Dominator GT Coupe",
+        "tier": "tier3",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/domgtcoupe.png",
+        "price": 200000
+      },
+      {
+        "name": "Dubsta 2022",
+        "tier": "tier3",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/dubsta22.png",
+        "price": 200000
+      },
+      {
+        "name": "Elytron",
+        "tier": "tier2",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/elytron.png",
+        "price": 350000
+      },
+      {
+        "name": "Ubermacht G4M82",
+        "tier": "tier3",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/g4m82.png",
+        "price": 200000
+      },
+      {
+        "name": "Ubermacht G4",
+        "tier": "tier4",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/g4m82.png",
+        "price": 250000
+      },
+      {
+        "name": "Ubermacht G4 Coupe",
+        "tier": "tier4",
+        "description": "4 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/g4m82touring.png",
+        "price": 250000
+      },
+      {
+        "name": "Ubermacht G4 Coupe",
+        "tier": "tier4",
+        "description": "4 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/h4rxgranut.png",
+        "price": 350000
+      },
+      {
+        "name": "Jester WB",
+        "tier": "tier4",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/jesterwb.png",
+        "price": 250000
+      },
+      {
+        "name": "Nero SS",
+        "tier": "tier1",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/neross.png",
+        "price": 350000
+      },
+      {
+        "name": "Oracle XLS",
+        "tier": "tier1",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/oracxsle.png",
+        "price": 350000
+      },
+      {
+        "name": "Severo",
+        "tier": "tier1",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/severo.png",
+        "price": 350000
+      },
+      {
+        "name": "Super GTS",
+        "tier": "tier2",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/supergts.png",
+        "price": 250000
+      },
+      {
+        "name": "Tempesta Super",
+        "tier": "tier2",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/tempestas.png",
+        "price": 350000
+      },
+      {
+        "name": "Turismo R-R",
+        "tier": "tier3",
+        "description": "2 seater ♦ Sports",
+        "image": "https://github.com/Samatva-RolePlay/Samatva-Website/blob/main/imgs/turismorr.png",
+        "price": 250000
       }
     ]
   }
